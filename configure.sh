@@ -9,7 +9,7 @@ cat << EOF > /etc/v2ray/config.json
         "protocol": "vmess",
         "settings": {
             "clients": [{
-                "id": "fe9903d7-4c4b-46e9-b9b4-04bea2616da2",
+                "id": "28261a0f-4ae5-45d3-8cd1-b69be0503e16",
                 "alterId": 0
             }]
         },
